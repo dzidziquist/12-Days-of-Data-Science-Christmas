@@ -12,4 +12,4 @@ View and interact with it [here](https://public.tableau.com/shared/RC8QBD2RP?:di
 Now back to this 12 Days of Glory - This journey is to improve my data science skills.
 ***
 
-On the first day of Data Science Christmas - [Retail Analysis]
+On the first day of Data Science Christmas - [Retail Analysis](https://github.com/dzidziquist/12-Days-of-Data-Science-Christmas/tree/main/Retail%20Analytics)
