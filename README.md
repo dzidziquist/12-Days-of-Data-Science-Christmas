@@ -13,3 +13,5 @@ Now back to this 12 Days of Glory - This journey is to improve my data science s
 ***
 
 On the first day of Data Science Christmas - [Retail Analysis](https://github.com/dzidziquist/12-Days-of-Data-Science-Christmas/tree/main/Retail%20Analytics)
+
+On the second day of Data Science Christmas - [Resume-Job Matching](https://github.com/dzidziquist/12-Days-of-Data-Science-Christmas/tree/main/Resume-Job%20Matching)
